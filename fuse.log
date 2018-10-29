@@ -1,0 +1,12 @@
+Running: D:\ise\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/ise/ComputerArchitectureCourseUBB/TB_top_isim_beh.exe -prj D:/ise/ComputerArchitectureCourseUBB/TB_top_beh.prj work.TB_top 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/ise/ComputerArchitectureCourseUBB/toplevel.vhd" into library work
+ERROR:HDLCompiler:806 - "D:/ise/ComputerArchitectureCourseUBB/toplevel.vhd" Line 38: Syntax error near "rd".
+ERROR:HDLCompiler:439 - "D:/ise/ComputerArchitectureCourseUBB/toplevel.vhd" Line 49: Formal port memwrite of mode out cannot be associated with actual port memwrite of mode buffer
+ERROR:HDLCompiler:439 - "D:/ise/ComputerArchitectureCourseUBB/toplevel.vhd" Line 50: Formal port aluout of mode out cannot be associated with actual port dataadr of mode buffer
+ERROR:HDLCompiler:27 - "D:/ise/ComputerArchitectureCourseUBB/toplevel.vhd" Line 51: imem has only 0 ports
+ERROR:HDLCompiler:854 - "D:/ise/ComputerArchitectureCourseUBB/toplevel.vhd" Line 27: Unit <test> ignored due to previous errors.
+VHDL file D:/ise/ComputerArchitectureCourseUBB/toplevel.vhd ignored due to errors

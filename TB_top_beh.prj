@@ -1,0 +1,2 @@
+vhdl work "toplevel.vhd"
+vhdl work "TB_top-level.vhd"
