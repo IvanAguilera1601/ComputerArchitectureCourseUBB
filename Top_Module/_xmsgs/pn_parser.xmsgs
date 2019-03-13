@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/dmem.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/imem.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/mux2.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/proyecto1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/regfile.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/AluDec.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/Controller.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/MainDecoder.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/adder.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/alu.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/datapath.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/flopr.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/signext.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/remote_sources/_/_/Single-Cycle-7.1-con-testbench-master/Single-Cycle-7.1-con-testbench-master/sl2.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Tomas/Desktop/iv/Top_Module/toplevel.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Tomas/Desktop/iv/Top_Module/toplevel.vhd</arg>&quot; Line <arg fmt="%d" index="2">38</arg>. <arg fmt="%s" index="3">Syntax error near &quot;rd&quot;.</arg>
+</msg>
+
+</messages>
+

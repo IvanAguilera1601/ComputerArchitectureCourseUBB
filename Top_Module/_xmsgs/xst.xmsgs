@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="104" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 9: Cannot find &lt;<arg fmt="%s" index="1">numeric_std_unsigned</arg>&gt; in library &lt;<arg fmt="%s" index="2">ieee</arg>&gt;. Please ensure that the library was compiled, and that a library and a use clause are present in the VHDL file.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 11: Unit &lt;<arg fmt="%s" index="1">imem</arg>&gt; ignored due to previous errors.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="374" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 15: Entity &lt;<arg fmt="%s" index="1">imem</arg>&gt; is not yet compiled.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 18: &lt;<arg fmt="%s" index="1">text</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 19: &lt;<arg fmt="%s" index="1">line</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 20: &lt;<arg fmt="%s" index="1">character</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 21: &lt;<arg fmt="%s" index="1">integer</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="24" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 22: <arg fmt="%s" index="1">&quot;**&quot;</arg> expects <arg fmt="%d" index="2">2</arg> arguments
+</msg>
+
+<msg type="error" file="HDLCompiler" num="541" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 27: Type <arg fmt="%s" index="1">ramtype</arg> is not an array type and cannot be indexed.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 29: &lt;<arg fmt="%s" index="1">index</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 30: &lt;<arg fmt="%s" index="1">file_open</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 31: &lt;<arg fmt="%s" index="1">endfile</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 32: &lt;<arg fmt="%s" index="1">readline</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 33: &lt;<arg fmt="%s" index="1">result</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 35: &lt;<arg fmt="%s" index="1">read</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 37: &lt;<arg fmt="%s" index="1">result</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 39: &lt;<arg fmt="%s" index="1">result</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="629" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 38: Near character <arg fmt="%s" index="1">&apos;a&apos;</arg> ; <arg fmt="%d" index="2">0</arg> visible types match here
+</msg>
+
+<msg type="error" file="HDLCompiler" num="631" delta="new" >"F:\ComputerArchitectureCourseUBB-master\ComputerArchitectureCourseUBB-master\imem.vhd" Line 40: Near string <arg fmt="%s" index="1">&quot;Format error on line&quot;</arg> ; <arg fmt="%d" index="2">0</arg> visible types match here
+</msg>
+
+</messages>
+

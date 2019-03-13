@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/ise/ComputerArchitectureCourseUBB/toplevel.xst" -ofn "D:/ise/ComputerArchitectureCourseUBB/toplevel.syr" 
